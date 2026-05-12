@@ -1,0 +1,15 @@
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/bin/Debug/net8.0/Shortly.Data.deps.json
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/bin/Debug/net8.0/Shortly.Data.runtimeconfig.json
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/bin/Debug/net8.0/Shortly.Data.dll
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/bin/Debug/net8.0/Shortly.Data.pdb
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.csproj.AssemblyReference.cache
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.AssemblyInfoInputs.cache
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.AssemblyInfo.cs
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.csproj.CoreCompileInputs.cache
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.sourcelink.json
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.dll
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/refint/Shortly.Data.dll
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.pdb
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/Shortly.Data.genruntimeconfig.cache
+/Users/ergisejdi/Desktop/Shortly/Shortly.Data/obj/Debug/net8.0/ref/Shortly.Data.dll
